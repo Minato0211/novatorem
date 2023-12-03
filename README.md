@@ -1,5 +1,5 @@
 &nbsp;<div align="center">
-  [![Spotify](https://minato-spotify-playing.vercel.app/api/spotify)](https://open.spotify.com/user/31xuwtrvvdjbsdkm2akcb733f7wi)
+  [![Spotify](https://minato-spotify-playing.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/31xuwtrvvdjbsdkm2akcb733f7wi)
 </div>
 
 
