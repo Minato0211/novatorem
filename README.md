@@ -1,6 +1,7 @@
 &nbsp;<div align="center">
-  [![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/omnitenebris)
+  [![Spotify](https://minato-spotify-playing.vercel.app/api/spotify)](https://open.spotify.com/user/31xuwtrvvdjbsdkm2akcb733f7wi)
 </div>
+
 
 &nbsp;<div align="center">
   [Fork](https://github.com/novatorem/novatorem/blob/main/SetUp.md) this [unlicensed](https://choosealicense.com/licenses/unlicense/) repository to recreate!<br><br>
